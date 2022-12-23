@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jeffreyyuan01
+- 👋 Hi, I’m Jeffrey Yuan
 - 👀 I’m interested in (Fullstack+Stock Trading Simulation)*Business Administration
 - 🌱 I’m currently learning CLoud Engineer
 - 💞️ I’m looking to collaborate on Finance Interface App
